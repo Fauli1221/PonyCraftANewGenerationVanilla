@@ -1,13 +1,13 @@
 name = "Sodium Core Shader Support"
-filename = "sodiumcoreshadersupport-1.1.4-sodium0.6.0beta.2.jar"
+filename = "sodiumcoreshadersupport-1.1.5-sodium0.6.0beta.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/G8yJPRdl/versions/UsLVt7sX/sodiumcoreshadersupport-1.1.4-sodium0.6.0beta.2.jar"
+url = "https://cdn.modrinth.com/data/G8yJPRdl/versions/XKvaczcJ/sodiumcoreshadersupport-1.1.5-sodium0.6.0beta.2.jar"
 hash-format = "sha1"
-hash = "8f9679987e92c301ba31d7e90b4b7a4b7004caaa"
+hash = "0579410cf047c63471d36dae0cb4d20b1e25b9c7"
 
 [update]
 [update.modrinth]
 mod-id = "G8yJPRdl"
-version = "UsLVt7sX"
+version = "XKvaczcJ"
