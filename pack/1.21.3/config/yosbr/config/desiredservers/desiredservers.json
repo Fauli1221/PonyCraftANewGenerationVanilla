@@ -1,0 +1,17 @@
+[
+  {
+    "serverName": "BronyTales",
+    "serverIP": "mc.bronytales.com",
+    "forceResourcePack": "true"
+  },
+  {
+    "serverName": "Love & Tolerance Survival",
+    "serverIP": "mc.love-tolerance.com",
+    "forceResourcePack": "true"
+  },
+  {
+    "serverName": "Love & Tolerance Creative",
+    "serverIP": "ponk.love-tolerance.com",
+    "forceResourcePack": "true"
+  }
+]
