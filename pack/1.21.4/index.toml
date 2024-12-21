@@ -25,6 +25,10 @@ file = "config/yosbr/config/sodiumextras-client.toml"
 file = "config/yosbr/servers.dat"
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 metafile = true
 
@@ -33,11 +37,7 @@ file = "mods/cloth-config.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/ebe.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/emi.pw.toml"
+file = "mods/cull-leaves.pw.toml"
 metafile = true
 
 [[files]]
@@ -69,15 +69,15 @@ file = "mods/krypton.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/mine-little-pony.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/modernfix.pw.toml"
 metafile = true
 
 [[files]]
@@ -93,7 +93,15 @@ file = "mods/presence-footsteps.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/puzzle.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/rei.pw.toml"
 metafile = true
 
 [[files]]
@@ -101,19 +109,7 @@ file = "mods/sodium-core-shader-support.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/sodium-dynamic-lights.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/sodium-extra.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/sodium-extras.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/sodium-options-api.pw.toml"
 metafile = true
 
 [[files]]
@@ -125,10 +121,6 @@ file = "mods/sodium.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/sodiumleafculling.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/viafabricplus.pw.toml"
 metafile = true
 
@@ -137,7 +129,7 @@ file = "mods/vmp-fabric.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/xaeros-minimap-fair.pw.toml"
+file = "mods/xaeros-minimap.pw.toml"
 metafile = true
 
 [[files]]
