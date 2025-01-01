@@ -1,9 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "CHANGELOG.md"
-
-[[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
 
 [[files]]
@@ -81,6 +78,10 @@ file = "mods/mine-little-pony.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/modernfix.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 metafile = true
 
@@ -110,6 +111,10 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sodium-options-api.pw.toml"
 metafile = true
 
 [[files]]
