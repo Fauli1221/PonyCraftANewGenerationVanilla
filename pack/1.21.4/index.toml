@@ -106,11 +106,11 @@ file = "mods/rei.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/sodium-core-shader-support.pw.toml"
+file = "mods/sodium-extra.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/sodium-extra.pw.toml"
+file = "mods/sodium-extras.pw.toml"
 metafile = true
 
 [[files]]
