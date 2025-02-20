@@ -22,7 +22,7 @@ file = "config/yosbr/config/sodiumextras-client.toml"
 file = "config/yosbr/servers.dat"
 
 [[files]]
-file = "mods/c2me-fabric.pw.toml"
+file = "mods/c2me.pw.toml"
 metafile = true
 
 [[files]]
@@ -110,15 +110,7 @@ file = "mods/sodium-core-shader-support.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/sodium-dynamic-lights.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/sodium-extra.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/sodium-extras.pw.toml"
 metafile = true
 
 [[files]]
@@ -138,11 +130,11 @@ file = "mods/sodium.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/sodiumleafculling.pw.toml"
+file = "mods/text-placeholder-api.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/text-placeholder-api.pw.toml"
+file = "mods/txnilib.pw.toml"
 metafile = true
 
 [[files]]
@@ -155,10 +147,6 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap-fair-play-edition.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-minimap-fair.pw.toml"
 metafile = true
 
 [[files]]

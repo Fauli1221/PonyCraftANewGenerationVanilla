@@ -126,6 +126,10 @@ file = "mods/sodiumleafculling.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/txnilib.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/viafabricplus.pw.toml"
 metafile = true
 
