@@ -1,30 +1,30 @@
 
-all: 1211 1214
+all: modrinth curseforge
 
-refresh-all: refresh1211 refresh1214
+refresh-all: refreshmr refreshcf
 
-update-all: update1211 update1214
+update-all: updatemr updatecf
 
-1211:
-	echo 1.21.1:
-	cd pack/1.21.1 && packwiz mr export && mv *.mrpack ../../build/
+modrinth:
+	echo modrinth:
+	cd pack/modrinth && packwiz mr export && mv *.mrpack ../../build/
 
-1214:
-	echo 1.21.4:
-	cd pack/1.21.4 && packwiz mr export && mv *.mrpack ../../build/
+curseforge:
+	echo curseforge:
+	cd pack/curseforge && packwiz cf export && mv *.zip ../../build/
 
-refresh1211:
-	echo 1.21.1:
-	cd pack/1.21.1 && packwiz refresh
+refreshmr:
+	echo modrinth:
+	cd pack/modrinth && packwiz refresh
 
-refresh1214:
-	echo 1.21.4:
-	cd pack/1.21.4 && packwiz refresh
+refreshcf:
+	echo curseforge:
+	cd pack/curseforge && packwiz refresh
 
-update1211:
-	echo 1.21.1:
-	cd pack/1.21.1 && packwiz update --all
+updatemr:
+	echo modrinth:
+	cd pack/modrinth && packwiz update --all
 
-update1214:
-	echo 1.21.4:
-	cd pack/1.21.4 && packwiz update --all
+updatecf:
+	echo curseforge:
+	cd pack/curseforge && packwiz update --all
