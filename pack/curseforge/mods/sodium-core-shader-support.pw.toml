@@ -1,13 +1,13 @@
 name = "Sodium Core Shader Support"
-filename = "sodiumcoreshadersupport-mc1.21.1-1.2.10-sodium0.6.7.jar"
-side = "client"
+filename = "sodiumcoreshadersupport-mc1.21.1-1.2.11-sodium0.6.9.jar"
+side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/G8yJPRdl/versions/LAmuG4LC/sodiumcoreshadersupport-mc1.21.1-1.2.10-sodium0.6.7.jar"
-hash-format = "sha512"
-hash = "ca9f07ff2fb25c496f6463b899cf4d5b8f3c043e06323d914ddebf6cc766b3e5d82fb62c8f193e176851aa253dff198e52b13a4ab58e3187fec5a80a9f69e76d"
+hash-format = "sha1"
+hash = "211323baaabd2edb71bd9f895b1d20650aba112b"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "G8yJPRdl"
-version = "LAmuG4LC"
+[update.curseforge]
+file-id = 6213302
+project-id = 956376

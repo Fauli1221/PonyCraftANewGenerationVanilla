@@ -30,11 +30,15 @@ file = "mods/cloth-config.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/ebe.pw.toml"
+file = "mods/dynamiclights-reforged.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-block-entities.pw.toml"
 metafile = true
 
 [[files]]
@@ -46,7 +50,7 @@ file = "mods/fabric-api.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/ferrite-core.pw.toml"
+file = "mods/ferritecore-fabric.pw.toml"
 metafile = true
 
 [[files]]
@@ -70,11 +74,19 @@ file = "mods/lithium.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/magnesium-extras.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/mine-little-pony.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
 metafile = true
 
 [[files]]
@@ -110,6 +122,10 @@ file = "mods/sodium-extras.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/sodium-leaf-culling.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/sodium-options-api.pw.toml"
 metafile = true
 
@@ -126,11 +142,19 @@ file = "mods/sodiumleafculling.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/text-placeholder-api.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/viafabricplus.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap-fair-play-edition.pw.toml"
 metafile = true
 
 [[files]]
