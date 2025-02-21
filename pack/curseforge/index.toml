@@ -26,7 +26,7 @@ file = "mods/architectury-api.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/c2me-fabric.pw.toml"
+file = "mods/c2me.pw.toml"
 metafile = true
 
 [[files]]
@@ -38,6 +38,14 @@ file = "mods/cull-leaves.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/dynamiclights-reforged.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-block-entities.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 metafile = true
 
@@ -46,7 +54,7 @@ file = "mods/fabric-api.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/ferrite-core.pw.toml"
+file = "mods/ferritecore-fabric.pw.toml"
 metafile = true
 
 [[files]]
@@ -66,11 +74,11 @@ file = "mods/krypton.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/lambdynamiclights.pw.toml"
+file = "mods/lithium.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/lithium.pw.toml"
+file = "mods/magnesium-extras.pw.toml"
 metafile = true
 
 [[files]]
@@ -79,6 +87,10 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
 metafile = true
 
 [[files]]
@@ -94,23 +106,19 @@ file = "mods/presence-footsteps.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/puzzle.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/rei.pw.toml"
+file = "mods/roughly-enough-items.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sodium-core-shader-support.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/sodium-extras.pw.toml"
 metafile = true
 
 [[files]]
@@ -123,6 +131,14 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/text-placeholder-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/txnilib.pw.toml"
 metafile = true
 
 [[files]]
