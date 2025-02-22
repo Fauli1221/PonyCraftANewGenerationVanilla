@@ -66,7 +66,7 @@ file = "mods/immediatelyfast.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/iris.pw.toml"
+file = "mods/irisshaders.pw.toml"
 metafile = true
 
 [[files]]
