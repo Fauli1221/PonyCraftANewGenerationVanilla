@@ -1,13 +1,13 @@
 name = "Sodium/Embeddium Extras"
-filename = "sodiumextras-fabric-1.0.8-1.21.4.jar"
+filename = "sodiumextras-fabric-1.0.8-1.21.5.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "d7d68d6fd2f418c63e82fc0766cb4fd8b6bce9bb"
+hash = "12a414e66a4bb389d7c0b07bb786f18717c6e407"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6407727
+file-id = 6407726
 project-id = 558905

@@ -41,10 +41,6 @@ file = "mods/cull-leaves.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/ebe.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
 metafile = true
 
@@ -81,19 +77,11 @@ file = "mods/mine-little-pony.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/modernfix.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/modmenu.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/noisium.pw.toml"
 metafile = true
 
 [[files]]

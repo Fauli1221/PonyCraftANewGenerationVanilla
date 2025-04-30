@@ -1,13 +1,13 @@
 name = "Cull Leaves"
-filename = "cullleaves-fabric-4.0.3.jar"
+filename = "cullleaves-fabric-4.0.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "1962f8f7f4264cba46a579e0580366736abe3e9a"
+hash = "016d56855f59187fd361618472259ddc1f6d46eb"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6019705
+file-id = 6447088
 project-id = 423254
