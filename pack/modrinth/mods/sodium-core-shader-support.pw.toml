@@ -1,13 +1,13 @@
 name = "Sodium Core Shader Support"
-filename = "sodiumcoreshadersupport-mc1.21.4-1.2.11-sodium0.6.9.jar"
+filename = "sodiumcoreshadersupport-1.3.4-mc1.21.4-sodium0.6.13-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/G8yJPRdl/versions/JpdWZ12x/sodiumcoreshadersupport-mc1.21.4-1.2.11-sodium0.6.9.jar"
+url = "https://cdn.modrinth.com/data/G8yJPRdl/versions/QXRp2pVL/sodiumcoreshadersupport-1.3.4-mc1.21.4-sodium0.6.13-fabric.jar"
 hash-format = "sha512"
-hash = "d32a19817b51879a9c126712dae5d61a5bcd55f1e76bef2c12f293f7e0c2638398f60aa644c5e878f76c8cb63d8e43185ffbf09a4855db11d68e744a52d0f4a4"
+hash = "6a4fba02ffc11a5167c3d6e0d4562c45a8a9a9192325d3008c0401a2eea3d1ee5daa597411dcbf95b08442f073117a64480430cd09df24aab3275e2732d0bdf9"
 
 [update]
 [update.modrinth]
 mod-id = "G8yJPRdl"
-version = "JpdWZ12x"
+version = "QXRp2pVL"
