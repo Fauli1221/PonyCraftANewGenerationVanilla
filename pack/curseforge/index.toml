@@ -16,6 +16,9 @@ file = "config/yosbr/config/ViaFabricPlus/settings.json"
 file = "config/yosbr/config/desiredservers/desiredservers.json"
 
 [[files]]
+file = "config/yosbr/config/modmenu.json"
+
+[[files]]
 file = "config/yosbr/config/sodiumextras-client.toml"
 
 [[files]]
