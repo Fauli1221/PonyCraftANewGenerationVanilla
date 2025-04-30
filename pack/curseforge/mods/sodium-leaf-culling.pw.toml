@@ -1,13 +1,13 @@
 name = "Sodium Leaf Culling"
-filename = "sodiumleafculling-fabric-1.0.0-1.21.1.jar"
+filename = "sodiumleafculling-fabric-1.0.1-1.21.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "e5fcb76e2537dc653d1285c4995b07a6ffe4b2db"
+hash = "792d25eab5876b3cd0d3b2b3e7b93d3d3a65836a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5656470
+file-id = 6394120
 project-id = 1089479
