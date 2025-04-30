@@ -16,6 +16,9 @@ file = "config/yosbr/config/ViaFabricPlus/settings.json"
 file = "config/yosbr/config/desiredservers/desiredservers.json"
 
 [[files]]
+file = "config/yosbr/config/modmenu.json"
+
+[[files]]
 file = "config/yosbr/config/sodiumextras-client.toml"
 
 [[files]]
@@ -51,10 +54,6 @@ metafile = true
 
 [[files]]
 file = "mods/ferritecore-fabric.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/hd-skins.pw.toml"
 metafile = true
 
 [[files]]
