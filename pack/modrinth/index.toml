@@ -16,6 +16,9 @@ file = "config/yosbr/config/ViaFabricPlus/settings.json"
 file = "config/yosbr/config/desiredservers/desiredservers.json"
 
 [[files]]
+file = "config/yosbr/config/modmenu.json"
+
+[[files]]
 file = "config/yosbr/config/sodiumextras-client.toml"
 
 [[files]]
@@ -82,11 +85,19 @@ file = "mods/modernfix.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/modmenu.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
 metafile = true
 
 [[files]]
