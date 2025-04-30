@@ -1,0 +1,22 @@
+name: Publish
+on:
+  push:
+    tags:
+      - '*'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Build
+        run: |
+         go install github.com/packwiz/packwiz@latest
+         export PATH=/home/runner/go/bin:$PATH
+         make all
+      - name: Release
+        uses: softprops/action-gh-release@v2
+        if: startsWith(github.ref, 'refs/tags/')
+        with:
+          files: build/*
