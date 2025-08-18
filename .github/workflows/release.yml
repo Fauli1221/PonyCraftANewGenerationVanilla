@@ -57,6 +57,7 @@ jobs:
         id: modrinth
         uses: Kir-Antipov/mc-publish@v3.3
         with:
+          name: "PonyCraft a New Generation Vanilla ${{ steps.pack-version.outputs.pack-version }}-{{ steps.minecraft-version.outputs.minecraft-version }}"
           modrinth-id: ${{ secrets.MODRINTH_ID }}
           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
           loaders: fabric
