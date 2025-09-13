@@ -19,6 +19,9 @@ file = "config/yosbr/config/desiredservers/desiredservers.json"
 file = "config/yosbr/config/modmenu.json"
 
 [[files]]
+file = "config/yosbr/config/puzzle.json"
+
+[[files]]
 file = "config/yosbr/config/sodiumextras-client.toml"
 
 [[files]]
