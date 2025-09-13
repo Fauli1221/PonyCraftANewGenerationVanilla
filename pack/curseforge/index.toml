@@ -65,6 +65,10 @@ file = "mods/krypton.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/lambdabettergrass.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 metafile = true
 
