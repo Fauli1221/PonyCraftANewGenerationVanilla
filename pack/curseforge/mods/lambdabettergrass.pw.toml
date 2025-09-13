@@ -1,0 +1,13 @@
+name = "LambdaBetterGrass"
+filename = "lambdabettergrass-2.2.1+1.21.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1ff9d486c98fbb086976e16a37a9b75875d3381a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6927717
+project-id = 400322

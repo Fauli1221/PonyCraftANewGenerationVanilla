@@ -1,0 +1,13 @@
+name = "LambdaBetterGrass"
+filename = "lambdabettergrass-2.2.1+1.21.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2Uev7LdA/versions/6AuDCXyB/lambdabettergrass-2.2.1%2B1.21.5.jar"
+hash-format = "sha512"
+hash = "c8b3ab6500bd8eceaf603b9342ec780876bf83a355c4bbc8f359a8b4f2dddeae28e30558576d33088a38cf3c674b31c8f4a07cd16ff4e52ccaa6e87dc03a1026"
+
+[update]
+[update.modrinth]
+mod-id = "2Uev7LdA"
+version = "6AuDCXyB"
