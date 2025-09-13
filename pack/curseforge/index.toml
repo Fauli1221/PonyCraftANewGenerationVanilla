@@ -33,7 +33,11 @@ file = "mods/cloth-config.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/dynamiclights-reforged.pw.toml"
+file = "mods/continuity.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cull-leaves.pw.toml"
 metafile = true
 
 [[files]]
@@ -45,7 +49,19 @@ file = "mods/enhanced-block-entities.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/entity-texture-features-fabric.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/esf-entity-sound-features.pw.toml"
 metafile = true
 
 [[files]]
@@ -69,11 +85,15 @@ file = "mods/krypton.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/lithium.pw.toml"
+file = "mods/lambdabettergrass.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/magnesium-extras.pw.toml"
+file = "mods/lambdynamiclights.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
 metafile = true
 
 [[files]]
@@ -101,6 +121,10 @@ file = "mods/presence-footsteps.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/puzzle.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 metafile = true
 
@@ -113,14 +137,6 @@ file = "mods/sodium-extra.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/sodium-leaf-culling.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/sodium-options-api.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/sodium-shadowy-path-blocks.pw.toml"
 metafile = true
 
@@ -130,10 +146,6 @@ metafile = true
 
 [[files]]
 file = "mods/text-placeholder-api.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/txnilib.pw.toml"
 metafile = true
 
 [[files]]
