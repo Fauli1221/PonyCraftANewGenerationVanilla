@@ -37,11 +37,27 @@ file = "mods/cloth-config.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/continuity.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/cull-leaves.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/entity-texture-features-fabric.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/esf-entity-sound-features.pw.toml"
 metafile = true
 
 [[files]]
