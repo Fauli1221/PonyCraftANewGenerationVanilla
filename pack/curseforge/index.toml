@@ -37,6 +37,10 @@ file = "mods/cloth-config.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/cull-leaves.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 metafile = true
 
