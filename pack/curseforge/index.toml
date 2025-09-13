@@ -41,10 +41,6 @@ file = "mods/cull-leaves.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/dynamiclights-reforged.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
 metafile = true
 
@@ -69,11 +65,11 @@ file = "mods/krypton.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/lithium.pw.toml"
+file = "mods/lambdynamiclights.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/magnesium-extras.pw.toml"
+file = "mods/lithium.pw.toml"
 metafile = true
 
 [[files]]
@@ -109,10 +105,6 @@ file = "mods/sodium-extra.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/sodium-options-api.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/sodium-shadowy-path-blocks.pw.toml"
 metafile = true
 
@@ -122,10 +114,6 @@ metafile = true
 
 [[files]]
 file = "mods/text-placeholder-api.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/txnilib.pw.toml"
 metafile = true
 
 [[files]]

@@ -69,6 +69,10 @@ file = "mods/krypton.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 metafile = true
 
@@ -105,19 +109,7 @@ file = "mods/sodium-core-shader-support.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/sodium-dynamic-lights.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/sodium-extra.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/sodium-extras.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/sodium-options-api.pw.toml"
 metafile = true
 
 [[files]]
@@ -126,10 +118,6 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/txnilib.pw.toml"
 metafile = true
 
 [[files]]
