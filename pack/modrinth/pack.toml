@@ -1,6 +1,6 @@
 name = "Pony Craft a New Generation Vanilla"
 author = "Fauli1221"
-version = "1.6.1-1.21.8"
+version = "1.7.0-1.21.10"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -9,8 +9,8 @@ hash-format = "sha256"
 
 [versions]
 fabric = "0.18.1"
-minecraft = "1.21.8"
+minecraft = "1.21.10"
 
 [options]
-acceptable-game-versions = ["1.21.6", "1.21.7"]
+acceptable-game-versions = ["1.21.9"]
 no-internal-hashes = true

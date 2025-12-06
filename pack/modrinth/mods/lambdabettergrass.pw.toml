@@ -1,13 +1,13 @@
 name = "LambdaBetterGrass"
-filename = "lambdabettergrass-2.3.2+1.21.8.jar"
+filename = "lambdabettergrass-2.5.0+1.21.9.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/2Uev7LdA/versions/N5zETMFN/lambdabettergrass-2.3.2%2B1.21.8.jar"
+url = "https://cdn.modrinth.com/data/2Uev7LdA/versions/FY86dPVr/lambdabettergrass-2.5.0%2B1.21.9.jar"
 hash-format = "sha512"
-hash = "00515ac1ebb4361624ccba10eaaef99df435144bf7586e9158159546e4adadca1fb7e96c7d03066cb6c00ececf769409d40c90c3d19f08c74fa2835a574449a5"
+hash = "82b34615d4b7cf35cd577234af22e8a3882a009e31cbcf4a659d0282f381bfe6a58ff480c5743257dbc38294cd26e497f1663a24a6ebd4c41b2cc4863c510545"
 
 [update]
 [update.modrinth]
 mod-id = "2Uev7LdA"
-version = "N5zETMFN"
+version = "FY86dPVr"
