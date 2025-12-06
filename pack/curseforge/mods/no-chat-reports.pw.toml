@@ -1,13 +1,13 @@
 name = "No Chat Reports"
-filename = "NoChatReports-FABRIC-1.21.7-v2.14.0.jar"
+filename = "NoChatReports-FABRIC-1.21.8-v2.15.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "7f8bfb9a42199e65ea9ced4e8202ff70613c141c"
+hash = "3a46f907bbdb6af78da01b501e69f9558cdb0197"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6718772
+file-id = 7094330
 project-id = 634062

@@ -1,13 +1,13 @@
 name = "Sodium Core Shader Support"
-filename = "sodiumcoreshadersupport-1.3.8-mc1.21.8-sodium0.6.13-fabric.jar"
+filename = "sodiumcoreshadersupport-1.4.3-mc1.21.8-sodium0.7.3-fabric.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "68303a9ce2bec06adcd22fa0ff906abe21786b68"
+hash = "98a25a7eb2489d5a1408ccf3587bddc3312de783"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6856680
+file-id = 7218335
 project-id = 956376
