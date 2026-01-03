@@ -1,13 +1,13 @@
 name = "Sodium Core Shader Support"
-filename = "sodiumcoreshadersupport-1.4.4-mc1.21.11-sodium0.8.0-SodiumCoreShaderSupport-1.4.4.jar"
+filename = "sodiumcoreshadersupport-1.4.6-mc1.21.11-sodium0.8.2-SodiumCoreShaderSupport-1.4.6.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/G8yJPRdl/versions/rbWcGIKD/sodiumcoreshadersupport-1.4.4-mc1.21.11-sodium0.8.0-SodiumCoreShaderSupport-1.4.4.jar"
+url = "https://cdn.modrinth.com/data/G8yJPRdl/versions/UAQCRalM/sodiumcoreshadersupport-1.4.6-mc1.21.11-sodium0.8.2-SodiumCoreShaderSupport-1.4.6.jar"
 hash-format = "sha512"
-hash = "71c5615897069f497c924ccddf93eea95241f36dfce9d014a6d78903cb766d5e83f7e50136783a0730f6f852ebeeba994c8d8f2e0b88bcbf35a02baa62ba665d"
+hash = "356c11882e3bdcb96567fd997a4e6dfb87d5402ce7945f9740188360b7f0dc18df324a439008ddd392b02c5c4480a4a26fd11e858110ec213bcb238efd8171f4"
 
 [update]
 [update.modrinth]
 mod-id = "G8yJPRdl"
-version = "rbWcGIKD"
+version = "UAQCRalM"
