@@ -57,10 +57,6 @@ file = "mods/entitytexturefeatures.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/esf.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/fabric-api.pw.toml"
 metafile = true
 
