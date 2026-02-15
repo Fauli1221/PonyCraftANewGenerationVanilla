@@ -45,10 +45,6 @@ file = "mods/cull-leaves.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/enchanteds-sodium-options.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/entity-model-features.pw.toml"
 metafile = true
 
@@ -118,6 +114,10 @@ metafile = true
 
 [[files]]
 file = "mods/puzzle.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
 metafile = true
 
 [[files]]

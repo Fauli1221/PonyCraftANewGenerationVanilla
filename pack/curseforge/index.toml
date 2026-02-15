@@ -109,6 +109,10 @@ file = "mods/puzzle.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/roughly-enough-items.pw.toml"
 metafile = true
 
