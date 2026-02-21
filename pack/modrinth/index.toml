@@ -164,7 +164,7 @@ file = "mods/vmp-fabric.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/xaeros-minimap-fair.pw.toml"
+file = "mods/xaeros-minimap.pw.toml"
 metafile = true
 
 [[files]]
