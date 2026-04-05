@@ -1,13 +1,13 @@
 name = "Sodium Core Shader Support"
-filename = "sodiumcoreshadersupport-1.4.6-mc26.1-sodium0.8.7-1.4.6.jar"
+filename = "sodiumcoreshadersupport-1.4.6-mc26.1.1-sodium0.8.9-1.4.6.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "737b9a9dbaf2da06f51d03abbed0a90edcf011f0"
+hash = "aec4113165a97d7e29f0800eb44c16a61fcc577a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7822445
+file-id = 7870036
 project-id = 956376
