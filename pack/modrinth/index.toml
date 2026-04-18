@@ -1,32 +1,28 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/yosbr/config/NoChatReports/NCR-Client.json"
+file = "config/modpack_defaults/config/NoChatReports/NCR-Client.json"
 
 [[files]]
-file = "config/yosbr/config/NoChatReports/NCR-Common.json"
+file = "config/modpack_defaults/config/NoChatReports/NCR-Common.json"
 
 [[files]]
-file = "config/yosbr/config/NoChatReports/NCR-Encryption.json"
+file = "config/modpack_defaults/config/NoChatReports/NCR-Encryption.json"
 
 [[files]]
-file = "config/yosbr/config/ViaFabricPlus/settings.json"
+file = "config/modpack_defaults/config/ViaFabricPlus/settings.json"
 
 [[files]]
-file = "config/yosbr/config/desiredservers/desiredservers.json"
+file = "config/modpack_defaults/config/desiredservers/desiredservers.json"
 
 [[files]]
-file = "config/yosbr/config/modmenu.json"
+file = "config/modpack_defaults/config/modmenu.json"
 
 [[files]]
-file = "config/yosbr/config/sodiumextras-client.toml"
+file = "config/modpack_defaults/config/sodiumextras-client.toml"
 
 [[files]]
-file = "config/yosbr/servers.dat"
-
-[[files]]
-file = "mods/architectury-api.pw.toml"
-metafile = true
+file = "config/modpack_defaults/servers.dat"
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
@@ -34,6 +30,10 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/configmanager.pw.toml"
 metafile = true
 
 [[files]]
@@ -81,7 +81,7 @@ file = "mods/iris.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/krypton.pw.toml"
+file = "mods/journeymap.pw.toml"
 metafile = true
 
 [[files]]
@@ -129,7 +129,7 @@ file = "mods/reeses-sodium-options.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/rei.pw.toml"
+file = "mods/rrv.pw.toml"
 metafile = true
 
 [[files]]
@@ -154,16 +154,4 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-minimap.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-world-map.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/yosbr.pw.toml"
 metafile = true

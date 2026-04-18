@@ -1,13 +1,13 @@
 name = "[ESF] Entity Sound Features"
-filename = "entity_sound_features_1.21.9-fabric-0.7.2.jar"
+filename = "entity_sound_features_26.1-fabric-0.8.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "ddfd773b90047863821ad9077061b28f302effb5"
+hash = "e0aa5628fff5d36991dc9e4d608656246f535496"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7140382
+file-id = 7933731
 project-id = 1060324
